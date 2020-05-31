@@ -140,7 +140,7 @@ void JumpToBootloader(void) {
 
     /**
      * Step: Connect USB<->UART converter to dedicated USART pins and test
-     *       and test with bootloader works with STM32 Flash Loader Demonstrator software
+     *       and test with bootloader works with STM32 STM32 Cube Programmer
      */
 }
 
